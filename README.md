@@ -3,7 +3,7 @@
 This is a Python-based attendance system that uses face recognition to mark the attendance of students or employees. The system can be used in schools, colleges, and companies to keep track of attendance and reduce the workload of manual attendance management.
 
 ## Features
-
+ 
 - Automatic attendance management using face recognition technology.
 - Ability to recognize multiple faces at once.
 - Simple and user-friendly interface.
